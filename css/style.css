@@ -1,0 +1,29 @@
+<!--   sign in css  -->
+
+.form{border: 1px solid red;}
+.input{margin-top: 10px;
+      margin-bottom: 10px;
+
+    height: 40px;
+    width: 250px;
+}
+.ml-50{padding-left: 350px;}
+.mr-100{margin-left: 10px;
+
+}
+.user{
+	 margin-left: -100px;
+}
+
+.image{
+	
+	height: 90px;
+    width: 300px;
+}
+
+<!--   user form css  -->
+.title1{
+    margin-left: 200px;
+
+}
+
